@@ -18,8 +18,6 @@ setup(
     install_requires=[
         'spacy==2.1.0',
         'flask>=1.0.2',
-        'nose>=1.3.7',
-        'https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.1.0/en_core_web_md-2.1.0.tar.gz',
-        'https://github.com/explosion/spacy-models/releases/download/es_core_news_md-2.1.0/es_core_news_md-2.1.0.tar.gz'
+        'nose>=1.3.7'
     ],
 )
